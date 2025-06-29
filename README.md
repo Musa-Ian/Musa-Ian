@@ -82,11 +82,11 @@ When I'm not coding, you can find me performing music as **Fristy Ice** 🎵 or 
 
 <div align="center">
   
-![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=IanMusa&show_icons=true&theme=tokyonight&count_private=true)
+![Ian's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musa-Ian&show_icons=true&theme=tokyonight&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMusa&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Ian&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IanMusa&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Musa-Ian&theme=tokyonight)
 
 </div>
 
