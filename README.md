@@ -38,28 +38,28 @@ When I'm not coding, you can find me:
 <div align="center">
 
 ### **Frontend Mastery**
-[![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000)](https://www.typescriptlang.org/)
-[![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000)](https://reactjs.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000)</a>
+<a href="https://reactjs.org/" target="_blank">![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000)</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)</a>
 
 ### **Backend & Infrastructure**
-[![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)](https://www.python.org/)
-[![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000)](https://nodejs.org/)
-[![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FF0000)](https://render.com/)
-[![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF0000)](https://redis.io/)
+<a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)</a>
+<a href="https://nodejs.org/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000)</a>
+<a href="https://render.com/" target="_blank">![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FF0000)</a>
+<a href="https://redis.io/" target="_blank">![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF0000)</a>
 
 ### **Database & Cloud**
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)](https://www.postgresql.org/)
-[![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF0000)](https://supabase.com/)
-[![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF0000)](https://firebase.google.com/)
-[![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FF0000)](https://vercel.com/)
+<a href="https://www.postgresql.org/" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)</a>
+<a href="https://supabase.com/" target="_blank">![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF0000)</a>
+<a href="https://firebase.google.com/" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF0000)</a>
+<a href="https://vercel.com/" target="_blank">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FF0000)</a>
 
 ### **Development Tools**
-[![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FF0000)](https://cursor.sh/)
-[![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)](https://git-scm.com/)
-[![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000)](https://www.docker.com/)
+<a href="https://cursor.sh/" target="_blank">![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FF0000)</a>
+<a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)</a>
+<a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000)</a>
 
 </div>
 
