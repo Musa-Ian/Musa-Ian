@@ -11,7 +11,7 @@
 **Creative UI/UX Designer • Full-Stack Developer • Music Artist • Aircraft Technician**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Creating+intuitive+digital+experiences;Bridging+design+and+development;Building+large-scale+applications;Performing+as+Fristy+Ice+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF0000&center=true&vCenter=true&width=600&duration=3000&lines=Creating+intuitive+digital+experiences;Bridging+design+and+development;Building+large-scale+applications;Performing+as+Fristy+Ice+%F0%9F%8E%B5" alt="Typing SVG" />
 </p>
 
 </div>
@@ -233,7 +233,7 @@ When I'm not coding, you can find me:
 ## 💡 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⭐+Building%3A+AI-enhanced+media+production+workflows+at+Ecreajo;🌱+Learning%3A+Advanced+AI%2FML+integration+%26+microservices+architecture;🚀+Mastering%3A+Redis+caching+strategies+%26+Render+deployment+optimization;🎯+Goal%3A+Revolutionizing+creator+collaboration+%26+content+production" alt="Current Focus" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FF0000&center=true&vCenter=true&width=800&duration=2500&lines=⭐+Building%3A+AI-enhanced+media+production+workflows+at+Ecreajo;🌱+Learning%3A+Advanced+AI%2FML+integration+%26+microservices+architecture;🚀+Mastering%3A+Redis+caching+strategies+%26+Render+deployment+optimization;🎯+Goal%3A+Revolutionizing+creator+collaboration+%26+content+production" alt="Current Focus" />
 </p>
 
 **🔥 Latest Achievements:**
