@@ -11,7 +11,7 @@
 **Creative UI/UX Designer • Full-Stack Developer • Music Artist • Aircraft Technician**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=800&color=FF0000&center=true&vCenter=true&width=600&duration=3000&lines=Creating+intuitive+digital+experiences;Bridging+design+and+development;Building+large-scale+applications;Performing+as+Fristy+Ice+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Creating+intuitive+digital+experiences;Bridging+design+and+development;Building+large-scale+applications;Performing+as+Fristy+Ice+%F0%9F%8E%B5" alt="Typing SVG" />
 </p>
 
 </div>
@@ -163,17 +163,15 @@ When I'm not coding, you can find me:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musa-Ian&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&icon_color=FF0000&border_color=FF0000&count_private=true&include_all_commits=true&cache_seconds=21600&v=2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musa-Ian&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&icon_color=FF0000&border_color=FF0000&count_private=true" />
 
-<img width="49%" src="https://streak-stats.demolab.com?user=Musa-Ian&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF&v=2" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Ian&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Ian&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&border_color=FF0000&include_all_commits=true&cache_seconds=21600&v=2" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Ian&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&border_color=FF0000" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Ian&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=false&border_color=FF0000&v=2" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Ian&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=false&border_color=FF0000" />
 
 </div>
-
-<!-- Cache Refresh: Last updated $(date +%Y%m%d_%H%M%S) -->
 
 ---
 
@@ -233,15 +231,14 @@ When I'm not coding, you can find me:
 ## 💡 Current Focus
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=800&color=FF0000&center=true&vCenter=true&width=800&duration=2500&lines=⭐+Building%3A+AI-enhanced+media+production+workflows+at+Ecreajo;🌱+Learning%3A+Advanced+AI%2FML+integration+%26+microservices+architecture;🚀+Mastering%3A+Redis+caching+strategies+%26+Render+deployment+optimization;🎯+Goal%3A+Revolutionizing+creator+collaboration+%26+content+production" alt="Current Focus" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⭐+Building%3A+AI-enhanced+media+production+workflows+at+Ecreajo;🌱+Learning%3A+Advanced+AI%2FML+integration+%26+microservices+architecture;🚀+Mastering%3A+Redis+caching+strategies+%26+Render+deployment+optimization;🎯+Goal%3A+Revolutionizing+creator+collaboration+%26+content+production" alt="Current Focus" />
 </p>
 
 **🔥 Latest Achievements:**
-- ⚡ Implemented **Redis caching** reducing API response time by 85%
-- 🚀 Migrated backend infrastructure to **Render** with 99.9% uptime
+- ⚡ Implemented Redis caching reducing API response time by 85%
+- 🚀 Migrated backend infrastructure to Render with 99.9% uptime
 - 🎨 Launched Ecreajo with AI-powered workflow automation
 - 📊 Achieved 47% conversion rate increase through UX optimization
-- 🔄 Optimized GitHub widgets for real-time data accuracy
 
 </div>
 
