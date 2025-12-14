@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB+Entrepreneur+%F0%9F%9A%80;Music+Artist+%F0%9F%8E%B5+Creative+Technologist+%F0%9F%8E%A8;Former+Aircraft+Technician+%E2%9C%88%EF%B8%8F+Problem+Solver+%F0%9F%A7%A9;Building+Solutions+That+Matter+%F0%9F%8C%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=800&height=120&lines=Full-Stack+Developer+%F0%9F%92%BB+Entrepreneur+%F0%9F%9A%80;Music+Artist+%F0%9F%8E%B5+Creative+Technologist+%F0%9F%8E%A8;Former+Aircraft+Technician+%E2%9C%88%EF%B8%8F;Problem+Solver+%F0%9F%A7%A9+Building+Solutions+%F0%9F%8C%8D" alt="Typing SVG" />
 
 <br/>
 
