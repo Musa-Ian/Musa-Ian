@@ -1,114 +1,103 @@
-# Hey there! I'm Ian Musa 👋
-
 <div align="center">
-  
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=header&text=Ian%20Musa&fontSize=50&fontColor=ffffff&animation=fadeIn)
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=Hey%20there!%20I'm%20Ian%20👋&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Building%20the%20future,%20one%20line%20of%20code%20at%20a%20time&descSize=20&descAlignY=55)
 
 </div>
 
 <div align="center">
 
-**Creative UI/UX Designer • Full-Stack Developer • Music Artist • Aircraft Technician**
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=800&height=100&lines=Full-Stack+Developer+%F0%9F%92%BB+Entrepreneur+%F0%9F%9A%80;Music+Artist+%F0%9F%8E%B5+Creative+Technologist+%F0%9F%8E%A8;Former+Aircraft+Technician+%E2%9C%88%EF%B8%8F+Problem+Solver+%F0%9F%A7%A9;Building+Solutions+That+Matter+%F0%9F%8C%8D" alt="Typing SVG" />
+
+<br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FF0000&center=true&vCenter=true&width=600&lines=Creating+intuitive+digital+experiences;Bridging+design+and+development;Building+large-scale+applications;Performing+as+Fristy+Ice+%F0%9F%8E%B5" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Based_in-Calgary,_Canada_🍁-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/From-Kenya_🌍-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Vibe-Creating_&_Innovating-F59E0B?style=for-the-badge" />
 </p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🌟 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **multi-talented professional** who bridges the gap between creative design and technical implementation. With extensive experience in both frontend and backend development, I specialize in building **large-scale applications** that prioritize user experience and technical excellence.
+I'm a **creative technologist** who believes technology should feel human. Whether I'm architecting backend systems, designing intuitive interfaces, or performing music as **Fristy Ice**, I bring the same energy: **build something that matters, make it beautiful, and have fun doing it.**
 
-When I'm not coding, you can find me:
-- 🎵 **Performing music** as **Fristy Ice**
-- ✈️ **Working as an Aircraft Structural Technician**
-- 🎨 **Creating innovative user experiences**
+My journey's been anything but conventional. From maintaining aircraft structures to building full-stack applications, from performing on stage to architecting scalable platforms—I've learned that the best solutions come from understanding both the technical *and* the human side of every problem.
 
-> *Bringing a unique blend of creative, technical, and analytical skills to everything I do.*
+**What drives me:**
+- 💡 Solving real problems people actually face
+- 🎨 Creating experiences that feel intuitive and delightful  
+- 🌍 Building with a global perspective
+- 🚀 Turning ambitious ideas into reality
+- 🎵 Keeping creativity at the heart of everything
+
+> *"The best way to predict the future is to build it—and make sure it's something worth living in."*
+
+<br clear="right"/>
 
 ---
 
-## ⚡ Tech Arsenal
+## 🛠️ My Tech Arsenal
 
 <div align="center">
 
-### **Frontend Mastery**
-<a href="https://www.typescriptlang.org/" target="_blank">![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=FF0000)</a>
-<a href="https://reactjs.org/" target="_blank">![React](https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=FF0000)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=FF0000)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=FF0000)</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=FF0000)</a>
+### **Languages & Frameworks**
 
-### **Backend & Infrastructure**
-<a href="https://www.python.org/" target="_blank">![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=FF0000)</a>
-<a href="https://nodejs.org/" target="_blank">![Node.js](https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=FF0000)</a>
-<a href="https://render.com/" target="_blank">![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=FF0000)</a>
-<a href="https://redis.io/" target="_blank">![Redis](https://img.shields.io/badge/Redis-000000?style=for-the-badge&logo=redis&logoColor=FF0000)</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,react,html,css,nodejs" alt="Languages" />
+</p>
 
-### **Database & Cloud**
-<a href="https://www.postgresql.org/" target="_blank">![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=FF0000)</a>
-<a href="https://supabase.com/" target="_blank">![Supabase](https://img.shields.io/badge/Supabase-000000?style=for-the-badge&logo=supabase&logoColor=FF0000)</a>
-<a href="https://firebase.google.com/" target="_blank">![Firebase](https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=FF0000)</a>
-<a href="https://vercel.com/" target="_blank">![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=FF0000)</a>
+### **Backend & Databases**
 
-### **Development Tools**
-<a href="https://cursor.sh/" target="_blank">![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=FF0000)</a>
-<a href="https://git-scm.com/" target="_blank">![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=FF0000)</a>
-<a href="https://www.docker.com/" target="_blank">![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=FF0000)</a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,firebase,supabase,docker" alt="Backend" />
+</p>
+
+### **Tools & Platforms**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,vercel,vscode,postman" alt="Tools" />
+</p>
+
+<img src="https://img.shields.io/badge/Cursor-AI--Powered_IDE-000000?style=for-the-badge&logo=cursor&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-Cloud_Platform-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 
 </div>
 
 ---
 
-## 🎯 What I Specialize In
+## 🎯 What I'm All About
 
-<table align="center">
+<table>
 <tr>
 <td width="50%" valign="top">
 
-### 🎨 **UI/UX Design**
-- User research & personas
-- Wireframing & prototyping
-- Design systems & style guides
-- A/B testing & optimization
-- Human-centered design
+### 💻 **Full-Stack Development**
+Building production-grade applications from the ground up. I love the challenge of architecting systems that scale, optimizing performance, and creating seamless user experiences. From microservices to monoliths, I choose the right tool for the job.
+
+**Recent wins:**
+- ⚡ Implemented Redis caching (85% faster response times)
+- 🚀 Architected microservices backend infrastructure  
+- 🎨 Built React apps with TypeScript for type safety
+- 📊 Designed real-time analytics dashboards
+- 🔐 Integrated Stripe Connect for secure payments
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ **Full-Stack Development**
-- Large-scale application architecture
-- RESTful API design & implementation
-- Database design & optimization
-- Real-time features & integrations
-- Performance optimization
+### 🎨 **Creative Problem Solving**
+My background in aircraft maintenance taught me precision and systematic thinking. Music taught me creativity and emotional resonance. Development lets me combine both—building solutions that work *and* feel good to use.
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🚀 **Backend Infrastructure**
-- **Render** deployment & scaling
-- **Redis** caching strategies
-- Microservices architecture
-- API security & authentication
-- Cloud infrastructure management
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 **Project Management**
-- End-to-end product development
-- Cross-functional team collaboration
-- Agile methodologies & sprint planning
-- Technical leadership
-- Code review & mentoring
+**My approach:**
+- 🔍 Understand the root problem, not just symptoms
+- 🎯 Design with the end user's experience in mind
+- 🧪 Iterate quickly, test often, improve continuously
+- 🌐 Think globally from day one
+- 💡 Keep learning, stay curious, embrace new challenges
 
 </td>
 </tr>
@@ -116,60 +105,84 @@ When I'm not coding, you can find me:
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-### 🏢 **[Ecreajo](https://www.ecreajo.com)** - AI-Enhanced Media Production Platform
-*Revolutionary platform solving creator pain points through integrated project management*
+### 🎬 **Production Platform** • [Visit Site](https://www.ecreajo.com)
 
-![Project Status](https://img.shields.io/badge/Status-Live-FF0000?style=for-the-badge)
-![Tech Stack](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Python%20%7C%20Supabase-000000?style=for-the-badge&logoColor=FF0000)
-
-**Key Features:**
-- 🤖 AI-enhanced workflows
-- 👥 Talent discovery system
-- 💳 Secure payment integration
-- 📊 Real-time analytics dashboard
-- 🔄 **Redis caching** for optimal performance
-- 🚀 **Render deployment** for scalable backend
-
----
-
-### 🎨 **[Portfolio Website](https://v0-ian-musa-portfolio.vercel.app)**
-*Professional showcase of UI/UX expertise and technical capabilities*
-
-![Conversion Rate](https://img.shields.io/badge/Conversion%20Rate-+47%25-FF0000?style=for-the-badge)
-![Performance](https://img.shields.io/badge/Performance-A+-000000?style=for-the-badge&logoColor=FF0000)
-
----
-
-### 📱 **[Instagram Downloader](https://v0-instagram-download-website.vercel.app)**
-*User-friendly web application with optimized backend performance*
-
-![Downloads](https://img.shields.io/badge/Downloads-10K+-FF0000?style=for-the-badge)
-![Uptime](https://img.shields.io/badge/Uptime-99.9%25-000000?style=for-the-badge&logoColor=FF0000)
-
-**Backend Highlights:**
-- ⚡ **Redis caching** for 90% faster response times
-- 🚀 **Render hosting** with auto-scaling capabilities
-- 🔄 Bulk processing optimization
+<img src="https://img.shields.io/badge/Status-Live-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stack-React_|_TypeScript_|_Python_|_PostgreSQL-6366F1?style=for-the-badge" />
 
 </div>
 
----
+A comprehensive marketplace platform connecting creative professionals with production opportunities. Features talent discovery, project management, secure payments, and real-time collaboration tools.
 
-## 📊 GitHub Analytics
+**Tech Highlights:**
+- 🏗️ Microservices architecture for scalability
+- ⚡ Redis caching layer for optimized performance  
+- 💳 Stripe Connect integration for secure escrow
+- 📱 Responsive design with mobile-first approach
+- 🌍 Multi-currency support for global operations
+- 📊 Real-time analytics and insights dashboard
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musa-Ian&show_icons=true&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&icon_color=FF0000&border_color=FF0000&count_private=true" />
+---
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Ian&theme=dark&background=000000&border=FF0000&stroke=FF0000&ring=FF0000&fire=FF0000&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FF0000&sideLabels=FF0000&dates=FFFFFF" />
+### 💼 **Portfolio Website** • [Visit Site](https://v0-ian-musa-portfolio.vercel.app)
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Ian&layout=compact&theme=dark&title_color=FF0000&text_color=FFFFFF&bg_color=000000&border_color=FF0000" />
+<img src="https://img.shields.io/badge/Conversion_Rate-+47%25-00C853?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Performance-Optimized-6366F1?style=for-the-badge" />
 
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Ian&bg_color=000000&color=FF0000&line=FF0000&point=FFFFFF&area=true&hide_border=false&border_color=FF0000" />
+</div>
+
+Professional portfolio showcasing UI/UX design expertise and development capabilities. Clean, modern interface with smooth animations and intuitive navigation.
+
+**Key Features:**
+- 🎨 Custom animations and micro-interactions
+- ⚡ Lightning-fast load times (< 1s)
+- 📱 Fully responsive across all devices
+- ♿ WCAG accessibility standards
+- 🎯 47% increase in visitor engagement
+
+<div align="center">
+
+---
+
+### 📱 **Instagram Downloader** • [Visit Site](https://v0-instagram-download-website.vercel.app)
+
+<img src="https://img.shields.io/badge/Downloads-10K+-F59E0B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Uptime-99.9%25-00C853?style=for-the-badge" />
+
+</div>
+
+High-performance web application for downloading Instagram content. Built with user experience and backend optimization in mind.
+
+**Performance:**
+- ⚡ Redis caching for 90% faster responses
+- 🚀 Render hosting with auto-scaling
+- 🔄 Efficient bulk processing
+- 🛡️ Rate limiting and security measures
+- 📊 10K+ successful downloads
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Musa-Ian&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=10B981&text_color=C9D1D9&count_private=true" />
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Musa-Ian&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=F59E0B&currStreakLabel=6366F1&sideLabels=10B981&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8B949E" />
+
+</div>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Musa-Ian&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Musa-Ian&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=10B981&point=F59E0B&area=true&area_color=6366F1" />
 
 </div>
 
@@ -182,28 +195,31 @@ When I'm not coding, you can find me:
 <table>
 <tr>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/nolan/64/musical-notes.png"/>
 
-**🎵 Music Artist - Fristy Ice**
-- Available on all streaming platforms
-- Blending creativity with precision
-- Emotional depth in digital experiences
+<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="100" />
+
+### 🎵 **Music Artist**
+
+Performing as **Fristy Ice** across streaming platforms. Music taught me about emotional resonance, creative expression, and connecting with audiences—skills that translate directly into building user experiences people love.
+
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/nolan/64/airplane-mode-on.png"/>
 
-**✈️ Aircraft Technician**
-- Structural maintenance & repair
-- Safety protocols & attention to detail
-- Problem-solving under pressure
+<img src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif" width="100" />
+
+### ✈️ **Aircraft Technician**
+
+Former structural technician working on aircraft maintenance and safety. Learned precision, systematic problem-solving, and that when lives depend on your work, there's no room for shortcuts.
+
 </td>
 <td width="33%" align="center">
-<img src="https://img.icons8.com/nolan/64/code.png"/>
 
-**💻 Tech Innovation**
-- **Redis** caching optimization
-- **Render** deployment expertise
-- Scalable backend architecture
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100" />
+
+### 🌍 **Global Citizen**
+
+Born in Kenya, building in Canada, thinking globally. I bring an international perspective to every project—because the best solutions work everywhere, not just in one market.
+
 </td>
 </tr>
 </table>
@@ -212,50 +228,51 @@ When I'm not coding, you can find me:
 
 ---
 
-## 🤝 Let's Connect & Collaborate!
+## 💭 My Philosophy
 
-<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000)](https://v0-ian-musa-portfolio.vercel.app)
-[![Business](https://img.shields.io/badge/Ecreajo-000000?style=for-the-badge&logo=rocket&logoColor=FF0000)](https://www.ecreajo.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000)](#)
-[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=FF0000)](#)
-[![Email](https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000)](mailto:your.email@example.com)
+```javascript
+const myApproach = {
+  build: "Solutions that matter to real people",
+  design: "With empathy and attention to detail",
+  iterate: "Quickly, learn constantly, improve always",
+  collaborate: "Openly and with genuine curiosity",
+  believe: "Technology should empower, not complicate",
+  create: "Something worth being proud of"
+};
 
-</div>
-
----
-
-<div align="center">
-
-## 💡 Current Focus
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&color=FF0000&center=true&vCenter=true&width=800&lines=⭐+Building%3A+AI-enhanced+media+production+workflows+at+Ecreajo;🌱+Learning%3A+Advanced+AI%2FML+integration+%26+microservices+architecture;🚀+Mastering%3A+Redis+caching+strategies+%26+Render+deployment+optimization;🎯+Goal%3A+Revolutionizing+creator+collaboration+%26+content+production" alt="Current Focus" />
-</p>
-
-**🔥 Latest Achievements:**
-- ⚡ Implemented Redis caching reducing API response time by 85%
-- 🚀 Migrated backend infrastructure to Render with 99.9% uptime
-- 🎨 Launched Ecreajo with AI-powered workflow automation
-- 📊 Achieved 47% conversion rate increase through UX optimization
-
-</div>
+// Life's too short to build boring things 🚀
+```
 
 ---
 
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn)
-
-**💭 "Creating intuitive digital experiences that seamlessly connect users with technology"**
-
-<img src="https://komarev.com/ghpvc/?username=Musa-Ian&style=for-the-badge&color=FF0000&labelColor=000000" alt="Profile Views" />
-
-</div>
-
----
+## 🤝 Let's Build Something Amazing
 
 <div align="center">
-<i>✨ Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations. ✨</i>
+
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" width="100" />
+
+Whether you're looking for a **co-founder**, a **collaborator**, or just want to **chat about tech, music, or ambitious ideas**—I'm always excited to connect with fellow builders and dreamers.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_My_Site-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://v0-ian-musa-portfolio.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Let's_Connect-10B981?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=120&section=footer" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Musa-Ian&style=for-the-badge&color=6366F1&label=Profile+Views)
+
+<br/>
+
+**✨ Thanks for stopping by! ✨**
+
+*Currently working on the next big thing—stay tuned!*
+
 </div>
