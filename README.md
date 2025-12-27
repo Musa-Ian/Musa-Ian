@@ -24,7 +24,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-I'm a **creative technologist** who believes technology should feel human. Whether I'm architecting backend systems, designing intuitive interfaces, or performing music as **Fristy Ice**, I bring the same energy: **build something that matters, make it beautiful, and have fun doing it.**
+I'm a **creative technologist** who believes technology should feel human. Whether I'm architecting backend systems, designing intuitive interfaces, or performing music as **Musaian**, I bring the same energy: **build something that matters, make it beautiful, and have fun doing it.**
 
 My journey's been anything but conventional. From maintaining aircraft structures to building full-stack applications, from performing on stage to architecting scalable platforms—I've learned that the best solutions come from understanding both the technical *and* the human side of every problem.
 
